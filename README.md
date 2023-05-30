@@ -25,6 +25,11 @@ create table
 filter method
 ![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/78009240-d057-4a21-9330-150b92f4fa11)
 ![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/858e2103-aeb1-4046-b067-0d9767393e34)
+![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/eb4ad674-d589-48dc-8c54-bbb3e4619c1f)
+![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/224339a1-0d7d-41ea-8a7a-c1a9e37c54cc)
+![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/fa350575-202e-4ea4-9cdf-cdf9988a5e45)
+![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/11e1bdb0-9e86-401d-bce3-d77fa6899e15)
+
 
 
 
