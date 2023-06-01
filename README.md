@@ -41,6 +41,21 @@ filter method
 ![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/525d620a-dd9e-4e82-b154-f60d7787b4b1)
 ![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/b80c628e-1ff1-452c-98ba-2a4a8c522545)
 ![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/cbf4aed2-b79c-44d7-8a1a-d034334d8a5e)
+![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/8e7554e1-358f-4217-bd23-fe5cc4fc17ef)
+![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/2599faf1-dfb8-4a24-8d46-9abdc773f6bc)
+![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/c7ecfaf4-b21e-4159-8722-b25c7ba568ed)
+![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/3b2e8a65-df70-45e7-990c-2bfd3e7cb134)
+![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/1a071a7b-ea55-418e-982c-a6799f22ca0e)
+
+
+the  alternative one
+![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/23710568-9bb6-418a-82ac-3df053e9e51d)
+![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/c89893f6-d37e-4ae6-b8bb-856e0499065a)
+![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/c9d30f65-1d63-45e4-b9d5-6877d813bfb5)
+![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/ec5f8af3-e803-4ad1-a47f-ec041b925002)
+the css part
+![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/25a62c96-1b41-412b-acd2-c6a7c556675a)
+![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/cb42d73f-dd7e-45f3-8e17-eb59e1ee767c)
 
 
 
