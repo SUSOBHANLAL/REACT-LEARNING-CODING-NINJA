@@ -56,6 +56,11 @@ the  alternative one
 the css part
 ![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/25a62c96-1b41-412b-acd2-c6a7c556675a)
 ![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/cb42d73f-dd7e-45f3-8e17-eb59e1ee767c)
+![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/e248e94c-8432-4bc7-a33b-23251d3729b5)
+![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/197234ea-b8d3-4d81-84e3-44793700986b)
+![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/98dcd79d-d46f-42c0-bd3a-67684dfa4d91)
+![image](https://github.com/SUSOBHANLAL/REACT-LEARNING-CODING-NINJA/assets/115396834/772e144f-bc4b-4b72-984d-b2576ffc11d6)
+
 
 
 
